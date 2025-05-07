@@ -4,8 +4,7 @@ A simple and clean implementation of the classic Tic Tac Toe game using **HTML**
 
 ## 🚀 Live Demo
 
-[Play the Game on GitHub Pages](https://yourusername.github.io/tic-tac-toe/)  
-> *(Replace with your actual GitHub Pages link)*
+[Play the Game on GitHub Pages](https://tushar-nandy.github.io/Tic_Tac_Toe/)  
 
 ---
 
